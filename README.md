@@ -21,7 +21,15 @@
 📜 **Hybrid Learning for Code-Mixed Text** – 📝 LSTM + CNN + Adaptive Boost for multilingual text classification.  
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minizee24&theme=tokyonight)  
+### 🏆 GitHub Achievements  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=minizee24&theme=radical&no-bg=true&no-frame=true)
+
+### 📈 GitHub Activity  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minizee24&theme=tokyo-night)
+
+### 🚀 GitHub Contributions  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minizee24&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minizee24&layout=compact&theme=tokyonight)  
 
 ### 🌟 Let's Connect!  
