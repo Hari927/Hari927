@@ -22,15 +22,15 @@
 
 ### 📊 GitHub Stats  
 ### 🏆 GitHub Achievements  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=minizee24&theme=radical&no-bg=true&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Hari927&theme=radical&no-bg=true&no-frame=true)
 
 ### 📈 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minizee24&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hari927&theme=tokyo-night)
 
 ### 🚀 GitHub Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minizee24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari927&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minizee24&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari927&layout=compact&theme=tokyonight)  
 
 ### 🌟 Let's Connect!  
 📫 [LinkedIn](https://www.linkedin.com/in/harisankara98/) | 🖥️ [GitHub](https://github.com/Hari927/) 
