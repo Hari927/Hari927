@@ -16,19 +16,12 @@
 📈 **Data Analytics**: ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi)  
 
 ### 🔥 Featured Projects  
+📄 **ChatPDF with Retrieval Augmented Generation (RAG)** – 🤖 AI-driven PDF assistant using GPT-3.5, FAISS, and NLP for semantic search and content extraction.  
 🎯 **Diabetic Retinopathy Detection** – 🏥 Deep learning model using ResNet for medical image classification.  
 🎨 **Text-to-Animation Generator** – 🖼️ AI-powered tool transforming text into dynamic visuals with VQGAN + CLIP.  
 📜 **Hybrid Learning for Code-Mixed Text** – 📝 LSTM + CNN + Adaptive Boost for multilingual text classification.  
 
-### 📊 GitHub Stats  
-### 🏆 GitHub Achievements  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Hari927&theme=radical&no-bg=true&no-frame=true)
 
-### 📈 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hari927&theme=tokyo-night)
-
-### 🚀 GitHub Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari927&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari927&layout=compact&theme=tokyonight)  
 
