@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari927&label=Profile%20views&color=0e75b6&style=flat" alt="Hari927" /> </p>
 # About-Me
 # 🚀 Machine Learning Engineer | AI & Cloud Enthusiast  
 
@@ -7,7 +8,7 @@
 💡 Passionate about **Machine Learning, AI, NLP, and Cloud Computing**  
 🔬 Specializing in **LLMs, Deep Learning, RAG, Computer Vision, and Big Data**  
 ☁️ Experienced in **AWS, GCP, MLOps, Kubernetes, and Docker**  
-
+⚡ Fun fact **I like coding but not debugging 😂😂.**
 ### 🛠️ Tech Stack  
 🔥 **Machine Learning & AI**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?style=flat&logo=scikitlearn)  
 📊 **Data Engineering**: ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat&logo=snowflake)  
